@@ -1,10 +1,10 @@
 
-# API CRIPTOCURRENCY CONVERTER
+# CRIPTOCURRENCY CONVERTER
 
-## Cryptocurrency Converter Calculator will convert from the input currency price and the amount of the input currency, a final conversion for the output currency
+## Cryptocurrency Converter program will convert from the input currency price and the amount of the input currency, a final conversion for the value of the output currency
 
 * ## Bulding the Json must have:
-    * ## the input and output currency in string format and should be one of these following Words: BTC, BCC, LTC, ETH, ETC, XRP
+    * ## the input and output currency in string format and should be one of these following currencies: BTC, BCC, LTC, ETH, ETC, XRP
     * ## amount should be a number
 
 <br>
