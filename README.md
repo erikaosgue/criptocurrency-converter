@@ -88,7 +88,7 @@
             "convertion": 0.158162
         }
 
-### 4) Withoust using the file app/server.js as an API you can use the file server2.js  to use the same criptocurrency converter
+### 4) Without using the file app/server.js as an API you can use the file server2.js  to use the same criptocurrency converter
 
     usage:
         $ node sever2.js <input_currency> <output_currency> <amount>
